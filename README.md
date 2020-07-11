@@ -49,7 +49,7 @@ Application integrations:
 
 ### How to reach me:
 
-Hit me up for the collaboration for any interesting project. Shoot me an email at chaitya1001@gmail.com
+Hit me up for the collaboration on any interesting project. Shoot me an email at chaitya1001@gmail.com
 
 <!--
 Here are some ideas to get you started:
