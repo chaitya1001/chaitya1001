@@ -1,6 +1,6 @@
 ### Intro
 
-Hi, my name is Chaitya Shah. I am currently working as a Software Engineer at [FracTEL, LLC](https://www.fractel.com) from past 3 years.
+Hi, my name is Chaitya Shah. I am currently working as a Software Engineer at [FracTEL, LLC](https://www.fractel.com) from past 4+ years.
 
 ### Technologies
 
